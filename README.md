@@ -76,7 +76,7 @@ Windows 用户级路径示例：`C:\Users\<你的用户名>\.workbuddy-ai\skills
 
 | 参考图片 | 反推图片（生成结果） |
 | ---- | ---------- |
-| 参考图片 | 反推图片       |
+| ![参考图片](examples/示例1/参考图片.jpg) | ![反推图片](examples/示例1/反推图片.png) |
 
 - 参考图：`examples/示例1/参考图片.jpg`
 - 完整提示词：`examples/示例1/反推提示词.txt`
